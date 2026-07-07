@@ -6,7 +6,7 @@
 
 <br/>
 
-# `KYUNGRIM LEE`
+### `KYUNGRIM LEE`
 
 <a href="https://github.com/yeekrim">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=4F8CFF&center=true&vCenter=true&width=520&lines=AI+Model+Design+%C3%97+Service+Development;From+model+training+to+production+service" alt="typing"/>

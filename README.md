@@ -45,9 +45,8 @@
 
 > 회사별 문서를 근거로 답변하는 멀티테넌트 RAG 챗봇
 
-```
-NVIDIA NIM (Llama 3.1 70B) · ChromaDB · FastAPI
-```
+`NVIDIA NIM` `Llama 3.1 70B` `ChromaDB` `FastAPI`
+
 - LLM 2회 교체 + 프롬프트 보강으로 한국어 품질 개선
 - PDF 표 구조화 추출, 대화 히스토리 유사도 필터링
 - pytest 단위 테스트 16개 — retriever 커버리지 **86%**
@@ -60,9 +59,8 @@ NVIDIA NIM (Llama 3.1 70B) · ChromaDB · FastAPI
 
 > 한국어·영어 수어를 실시간 텍스트로 번역
 
-```
-PyTorch · LSTM · MediaPipe · OpenCV
-```
+`PyTorch` `LSTM` `MediaPipe` `OpenCV`
+
 - 양손 관절 126차원 × 30프레임 시계열 학습
 - LSTM + 교차검증으로 시간적 관계 학습
 - 공개 데이터셋 한계 → **1,000개 단어 자체 구축**
@@ -77,9 +75,8 @@ PyTorch · LSTM · MediaPipe · OpenCV
 
 > ML+DL 앙상블 기반 피싱 URL 탐지
 
-```
-LightGBM · CNN · GridSearchCV
-```
+`LightGBM` `CNN` `GridSearchCV`
+
 - URL/WHOIS/콘텐츠 **17개 피처 엔지니어링**
 - 정상 15만 + 피싱 14만 URL 수집·정제 담당
 - LightGBM + CNN 앙상블 → Recall **0.79 → 0.89**
@@ -92,9 +89,8 @@ LightGBM · CNN · GridSearchCV
 
 > YOLOv5 + 특징점 매칭 기반 위조 번호판 판별
 
-```
-YOLOv5 · OpenCV · OCR
-```
+`YOLOv5` `OpenCV` `OCR`
+
 - SIFT/SURF/ORB 비교 실험 → **ORB + knnMatch** 채택
 - 위조 번호판 직접 제작해 데이터셋 구축
 - OCR 연계 주차장 게이트 시뮬레이션
@@ -109,9 +105,8 @@ YOLOv5 · OpenCV · OCR
 
 > SLA600 공정 로그 파싱 → 장비 내부 거동 재구성
 
-```
-Python · Data Visualization · Log Parsing
-```
+`Python` `Data Visualization` `Log Parsing`
+
 - 축별(빌드 플레이트/리코터/레진 블럭) 시계열 시각화
 - 13시간 47분 · 1,059 레이어 실공정 로그 분석
 - 신규 부품 성능 검증에 활용

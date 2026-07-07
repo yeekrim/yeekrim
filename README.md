@@ -54,20 +54,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 Face Spoofing Detection
-**0.8787 → 0.9887 · 2위**
-
-얼굴 이미지의 스푸핑(위조) 여부 분류
-
-- EfficientNet 전이학습 + 데이터 증강
-- 멀티 Epoch 모델 **Hard Voting 앙상블**
-- 8개 팀 중 **2위**
-
-`EfficientNet` `Ensemble` `Augmentation`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎣 피싱 사이트 탐지
 `화이트햇 스쿨 2기` · **F1 0.87 → 0.93**
 
@@ -81,8 +67,6 @@ ML+DL 앙상블 기반 피싱 URL 탐지
 `LightGBM` `CNN` `GridSearchCV`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚗 위조 번호판 탐지 시스템
@@ -97,6 +81,8 @@ YOLOv5 + 특징점 매칭 기반 위조 번호판 판별
 `YOLOv5` `OpenCV` `OCR`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🖨️ 3D 프린터 로그 시각화
@@ -109,6 +95,9 @@ SLA600 공정 로그 파싱 → 장비 내부 거동 재구성
 - 신규 부품 성능 검증에 활용
 
 `Python` `Data Visualization` `Log Parsing`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>

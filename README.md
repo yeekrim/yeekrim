@@ -131,14 +131,4 @@ SLA600 공정 로그 파싱 → 장비 내부 거동 재구성
 
 <br/>
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yeekrim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeekrim&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yeekrim)](https://solved.ac/kr031106)
-
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6fa8dc,100:7156b7&height=120&section=footer)

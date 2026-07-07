@@ -4,8 +4,6 @@
 
 ### AI 모델을 설계하고, 실제 서비스로 만듭니다
 
-모델 학습에서 멈추지 않고 **사용자가 쓰는 서비스까지 직접 구현**하는 것을 좋아합니다.<br/>
-
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>

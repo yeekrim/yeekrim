@@ -55,7 +55,7 @@
 <td width="50%" valign="top">
 
 ### 🎭 Face Spoofing Detection
-`교내 AI 경진대회` · **0.8787 → 0.9887 · 2위**
+**0.8787 → 0.9887 · 2위**
 
 얼굴 이미지의 스푸핑(위조) 여부 분류
 
@@ -86,7 +86,7 @@ ML+DL 앙상블 기반 피싱 URL 탐지
 <td width="50%" valign="top">
 
 ### 🚗 위조 번호판 탐지 시스템
-**[fake-license-plate-detection](https://github.com/yeekrim/fake-license-plate-detection)** · `수업 최종 평가 1위`
+**[fake-license-plate-detection](https://github.com/yeekrim/fake-license-plate-detection)**
 
 YOLOv5 + 특징점 매칭 기반 위조 번호판 판별
 
@@ -118,7 +118,7 @@ SLA600 공정 로그 파싱 → 장비 내부 거동 재구성
 
 ## 💼 Experience
 
-**3D 프린팅 연구실 소프트웨어팀** (7개월) + **연계 인턴** (2개월)
+**Smart 3D Printing 연구실 소프트웨어팀** (2025.4 ~ 2025.7, 2025.10 ~ 2025.11) + **한국전자기술연구원(KETI) 연계 인턴** (2025.8 ~ 2025.9)
 
 > 연구자용 웹/데스크톱 애플리케이션 개발 및 QA
 
@@ -127,5 +127,15 @@ SLA600 공정 로그 파싱 → 장비 내부 거동 재구성
 - 🔧 Vue/Flask 웹 플랫폼 7개 페이지 디버깅, 3개 페이지 CRUD 직접 구현
 
 <br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yeekrim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeekrim&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yeekrim)](https://solved.ac/kr031106)
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6fa8dc,100:7156b7&height=120&section=footer)

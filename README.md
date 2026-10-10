@@ -9,7 +9,7 @@
 ### `KYUNGRIM LEE`
 
 <a href="https://github.com/yeekrim">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=4F8CFF&center=true&vCenter=true&width=520&lines=AI+Model+Design+%C3%97+Service+Development;From+model+training+to+production+service" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=4F8CFF&center=true&vCenter=true&width=520&lines=Product+Engineer;Less+manual+work." alt="typing"/>
 </a>
 
 <br/>
@@ -23,6 +23,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Vue.js-1f2937?style=flat-square&logo=vuedotjs&logoColor=4F8CFF"/>
 <img src="https://img.shields.io/badge/Electron-1f2937?style=flat-square&logo=electron&logoColor=4F8CFF"/>
+<img src="https://img.shields.io/badge/SwiftUI-1f2937?style=flat-square&logo=swift&logoColor=4F8CFF"/>
 <img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4F8CFF"/>
 <img src="https://img.shields.io/badge/ChromaDB-1f2937?style=flat-square&logo=databricks&logoColor=4F8CFF"/>
 <img src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=4F8CFF"/>
@@ -47,23 +48,15 @@
 
 `NVIDIA NIM` `Llama 3.1 70B` `ChromaDB` `FastAPI`
 
-- LLM 2회 교체 + 프롬프트 보강으로 한국어 품질 개선
-- PDF 표 구조화 추출, 대화 히스토리 유사도 필터링
-- pytest 단위 테스트 16개 — retriever 커버리지 **86%**
-
 </td>
 <td width="50%" valign="top">
 
 #### 🧏 실시간 수어 번역 시스템
-`졸업 프로젝트 · 팀 리더` · **Val Acc 0.94**
+`졸업 프로젝트 · 팀 리더`
 
 > 한국어·영어 수어를 실시간 텍스트로 번역
 
 `PyTorch` `LSTM` `MediaPipe` `OpenCV`
-
-- 양손 관절 126차원 × 30프레임 시계열 학습
-- LSTM + 교차검증으로 시간적 관계 학습
-- 공개 데이터셋 한계 → **1,000개 단어 자체 구축**
 
 </td>
 </tr>
@@ -71,15 +64,11 @@
 <td width="50%" valign="top">
 
 #### 🎣 피싱 사이트 탐지
-`화이트햇 스쿨 2기` · **F1 0.87 → 0.93**
+`화이트햇 스쿨 2기`
 
 > ML+DL 앙상블 기반 피싱 URL 탐지
 
 `LightGBM` `CNN` `GridSearchCV`
-
-- URL/WHOIS/콘텐츠 **17개 피처 엔지니어링**
-- 정상 15만 + 피싱 14만 URL 수집·정제 담당
-- LightGBM + CNN 앙상블 → Recall **0.79 → 0.89**
 
 </td>
 <td width="50%" valign="top">
@@ -91,28 +80,28 @@
 
 `YOLOv5` `OpenCV` `OCR`
 
-- SIFT/SURF/ORB 비교 실험 → **ORB + knnMatch** 채택
-- 위조 번호판 직접 제작해 데이터셋 구축
-- OCR 연계 주차장 게이트 시뮬레이션
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
 #### 🖨️ 3D 프린터 로그 시각화
-`개인 프로젝트`
+`Smart 3D Printing 연구실`
 
 > SLA600 공정 로그 파싱 → 장비 내부 거동 재구성
 
 `Python` `Data Visualization` `Log Parsing`
 
-- 축별(빌드 플레이트/리코터/레진 블럭) 시계열 시각화
-- 13시간 47분 · 1,059 레이어 실공정 로그 분석
-- 신규 부품 성능 검증에 활용
-
 </td>
 <td width="50%" valign="top">
+
+#### ⏱️ 공부 시간 측정 macOS 앱
+**[cagong-timer ↗](https://github.com/yeekrim/cagong-timer)** · `개인 프로젝트`
+
+> TODO 작성 → 측정 → 먼슬리 기록까지 하루 흐름을 담은 타이머
+
+`Swift` `SwiftUI` `SwiftPM`
+
 </td>
 </tr>
 </table>

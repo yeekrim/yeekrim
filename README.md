@@ -86,7 +86,7 @@
 <td width="50%" valign="top">
 
 #### 🖨️ 3D 프린터 로그 시각화
-`Smart 3D Printing 연구실`
+**[sla600-log-analyzer ↗](https://github.com/yeekrim/sla600-log-analyzer)** · `Smart 3D Printing 연구실`
 
 > SLA600 공정 로그 파싱 → 장비 내부 거동 재구성
 

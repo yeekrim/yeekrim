@@ -52,7 +52,7 @@
 <td width="50%" valign="top">
 
 #### 🧏 실시간 수어 번역 시스템
-`졸업 프로젝트 · 팀 리더`
+**[sign-language-translation ↗](https://github.com/yeekrim/sign-language-translation)** · `졸업 프로젝트 · 팀 리더`
 
 > 한국어·영어 수어를 실시간 텍스트로 번역
 

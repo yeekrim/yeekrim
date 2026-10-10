@@ -64,7 +64,7 @@
 <td width="50%" valign="top">
 
 #### 🎣 피싱 사이트 탐지
-`화이트햇 스쿨 2기`
+**[phishing-url-detection ↗](https://github.com/yeekrim/phishing-url-detection)** · `화이트햇 스쿨 2기`
 
 > ML+DL 앙상블 기반 피싱 URL 탐지
 

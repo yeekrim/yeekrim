@@ -1,5 +1,9 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
+<p align="right">
+<a href="https://github.com/yeekrim/yeekrim/blob/main/README.md"><img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-4f8cff?style=for-the-badge" alt="日本語"></a> <a href="https://github.com/yeekrim/yeekrim/blob/main/README.ko.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-d0d7de?style=for-the-badge" alt="한국어"></a>
+</p>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4f8cff,100:8b5cf6&height=3&section=header"/>
@@ -41,20 +45,20 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 RAG 기반 사내 챗봇
+#### 🤖 RAGベースの社内チャットボット
 **[company-assistant ↗](https://github.com/yeekrim/company-assistant)** · `active`
 
-> 회사별 문서를 근거로 답변하는 멀티테넌트 RAG 챗봇
+> 企業ごとのドキュメントを根拠に回答するマルチテナントRAGチャットボット
 
 `NVIDIA NIM` `Nemotron 3 Super 120B` `ChromaDB` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧏 실시간 수어 번역 시스템
-**[sign-language-translation ↗](https://github.com/yeekrim/sign-language-translation)** · `졸업 프로젝트 · 팀 리더`
+#### 🧏 リアルタイム手話翻訳システム
+**[sign-language-translation ↗](https://github.com/yeekrim/sign-language-translation)** · `卒業プロジェクト · チームリーダー`
 
-> 한국어·영어 수어를 실시간 텍스트로 번역
+> 韓国手話・アメリカ手話をリアルタイムでテキストに翻訳
 
 `PyTorch` `LSTM` `MediaPipe` `OpenCV`
 
@@ -63,20 +67,42 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🎣 피싱 사이트 탐지
-**[phishing-url-detection ↗](https://github.com/yeekrim/phishing-url-detection)** · `화이트햇 스쿨 2기`
+#### 🧪 展示ブース用キオスクゲーム
+**[cavac-kiosk-game ↗](https://github.com/yeekrim/cavac-kiosk-game)** · `クライアント案件 · 開発中`
 
-> ML+DL 앙상블 기반 피싱 URL 탐지
+> 中央ワクチン研究所の展示ブースで動く、オフライン・タッチ操作のキオスクゲーム
+
+`Electron` `React` `TypeScript` `Zustand`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📒 敬老堂の通帳整理ツール
+**[senior-center-ledger ↗](https://github.com/yeekrim/senior-center-ledger)** · `個人プロジェクト · 開発中`
+
+> 通帳の写真を OCR で読み取り、残高を検証して月別の決算資料にまとめる
+
+`Python` `FastAPI` `OCR` `AES-256-GCM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎣 フィッシングサイト検知
+**[phishing-url-detection ↗](https://github.com/yeekrim/phishing-url-detection)** · `ホワイトハットスクール 2期`
+
+> ML+DLアンサンブルによるフィッシングURL検知
 
 `LightGBM` `CNN` `GridSearchCV`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🚗 위조 번호판 탐지 시스템
+#### 🚗 偽造ナンバープレート検知システム
 **[fake-license-plate-detection ↗](https://github.com/yeekrim/fake-license-plate-detection)**
 
-> YOLOv5 + 특징점 매칭 기반 위조 번호판 판별
+> YOLOv5 + 特徴点マッチングによる偽造ナンバープレート判別
 
 `YOLOv5` `OpenCV` `OCR`
 
@@ -85,20 +111,20 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🖨️ 3D 프린터 로그 시각화
-**[sla600-log-analyzer ↗](https://github.com/yeekrim/sla600-log-analyzer)** · `Smart 3D Printing 연구실`
+#### 🖨️ 3Dプリンタのログ可視化
+**[sla600-log-analyzer ↗](https://github.com/yeekrim/sla600-log-analyzer)** · `Smart 3D Printing 研究室`
 
-> SLA600 공정 로그 파싱 → 장비 내부 거동 재구성
+> SLA600の工程ログを解析 → 装置内部の動きを再構成
 
 `Python` `Data Visualization` `Log Parsing`
 
 </td>
 <td width="50%" valign="top">
 
-#### ⏱️ 공부 시간 측정 macOS 앱
-**[cagong-timer ↗](https://github.com/yeekrim/cagong-timer)** · `개인 프로젝트`
+#### ⏱️ 勉強時間を計測するmacOSアプリ
+**[cagong-timer ↗](https://github.com/yeekrim/cagong-timer)** · `個人プロジェクト`
 
-> TODO 작성 → 측정 → 먼슬리 기록까지 하루 흐름을 담은 타이머
+> TODO作成 → 計測 → 月間記録まで、1日の流れをまとめたタイマー
 
 `Swift` `SwiftUI` `SwiftPM`
 
@@ -110,10 +136,10 @@
 
 ## &nbsp;`02` &nbsp;Experience
 
-**Smart 3D Printing 연구실 소프트웨어팀** &nbsp;`2025.04–07 · 2025.10–11`<br/>
-**한국전자기술연구원 (KETI) 연계 인턴** &nbsp;`2025.08–09`
+**Smart 3D Printing 研究室 ソフトウェアチーム** &nbsp;`2025.04–07 · 2025.10–11`<br/>
+**韓国電子技術研究院（KETI）連携インターン** &nbsp;`2025.08–09`
 
-> 연구자용 웹 / 데스크톱 애플리케이션 개발 및 QA
+> 研究者向けWeb / デスクトップアプリケーションの開発・QA
 
 <br/>
 

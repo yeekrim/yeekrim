@@ -46,7 +46,7 @@
 
 > 회사별 문서를 근거로 답변하는 멀티테넌트 RAG 챗봇
 
-`NVIDIA NIM` `Llama 3.1 70B` `ChromaDB` `FastAPI`
+`NVIDIA NIM` `Nemotron 3 Super 120B` `ChromaDB` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
